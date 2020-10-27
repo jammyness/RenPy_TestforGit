@@ -21,6 +21,7 @@
 * I just wanted lots of money and stability, to be dangerouly honest
 * I wanted a hands-on career
 * I hate people and I didn't want to be in any career that involved people. Please, just the microscope and the desk and a closed unventilated room. 
+* I love being outside I would die being inside a building all day
 
 ### Nested flashback, to university when you were deciding what you wanted to pursue. 
 
@@ -32,18 +33,20 @@
 ### Deeper questions will depend on department you get selected into
 * Chemical Engineering - cooking
 ** BioMolecular Engineering
-** Molecular engineering
+** BioMedical Engineering
+** BioChemical Engineering
+** Molecular Engineering
 ** Materials Engineering
 ** Corrosion Engineering
 ** Petroleum Engineering
 
 * Mechanical Engineering/ mech
-** engineering biomechanics
+** Engineering Biomechanics
 ** Acoustics
 ** Manufacturing
 ** Thermal
 ** Vehicle
-** Energy engineering
+** Energy Engineering
 ** Aerospace
 ** Robotics
 
@@ -51,23 +54,24 @@
 ** Mining
 ** Environmental Engineering
 ** Geotechnical
-** STructural
+** Structural
 ** Mining
 ** Transport
 ** Utility
-** Water resources
+** Water Resources
 
 * Industrial engineering (facilities/ operations - how businesses run)
 
 * Engineering Physics
-** Nuclear engineering
+** Nuclear Engineering
 ** Optical Engineering
 
 * Electrical Engineering
 ** Electronics
-** computer engineering software
-** power engineering
-** optical engineering
+** Software Engineering
+** Power Engineering
+** Optical Engineering
+** Robotics Engineering
 
 
 ## Part 4: Selection/Recommendation
@@ -79,8 +83,3 @@ List real life people who actually work in these fields (with links to linkedin 
 ## Epilogue: A day in the life, ten years later
 * Goes through a day from waking up commuting, what they do all day, who they talk to, the projects they're working on and what they've achieved!*
 * Get home after a long day at work and you find your degree and it's right or wrong hahaha*
-
-// Senzeni's changes 
-## Big Change 
-This is the biggest change in the history of changes
-What do you think
