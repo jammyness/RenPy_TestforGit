@@ -30,6 +30,7 @@ label start:
 
     a "New job!? I barely remember being interviewed."
 
+
     # This ends the game.
 
     return
