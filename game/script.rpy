@@ -4,6 +4,8 @@
 # name of the character.
 
 define a = Character("Amy")
+define b = Character("HR Person")
+define c = Character("Michael") #Michael is the department head
 
 
 # The game starts here.
@@ -28,9 +30,10 @@ label start:
 
     a "Huh?? How did I get here."
 
-    a "New job!? I barely remember being interviewed."
+    a "New job!? I barely remember being interviewed. Why am I here?"
 
 
     # This ends the game.
+     
 
     return
