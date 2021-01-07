@@ -19,7 +19,7 @@
 * I love helping people
 * I wanted to do something creative
 * I just wanted lots of money and stability, to be dangerouly honest
-* I wanted a hands-on career
+* **I wanted a hands-on career**
 * I hate people and I didn't want to be in any career that involved people. Please, just the microscope and the desk and a closed unventilated room. 
 * I love being outside I would die being inside a building all day
 
@@ -31,47 +31,29 @@
 * Firm = best engineering, worst HR *
 
 ### Deeper questions will depend on department you get selected into
-* Chemical Engineering - cooking
-** BioMolecular Engineering
-** BioMedical Engineering
-** BioChemical Engineering
-** Molecular Engineering
-** Materials Engineering
-** Corrosion Engineering
-** Petroleum Engineering
+"Can you describe your ideal day?"
+* At least half of my day should be spent in a 3D program
+* They don't call me an Excel Guru for nothing!!
+* Is there enough time in the day for EXTRA meetings?
 
-* Mechanical Engineering/ mech
-** Engineering Biomechanics
-** Acoustics
-** Manufacturing
-** Thermal
-** Vehicle
-** Energy Engineering
-** Aerospace
-** Robotics
+
+* **Mechanical Engineering/ mech** - Initial Branch
+    * **Robotics**
+* Chemical Engineering - cooking
+* BioMedical Engineering
+    * BioMolecular Engineering
+* Materials Engineering
 
 * Civil Engineering
-** Mining
-** Environmental Engineering
-** Geotechnical
-** Structural
-** Mining
-** Transport
-** Utility
-** Water Resources
-
+* Mining
+* Environmental Engineering
 * Industrial engineering (facilities/ operations - how businesses run)
 
 * Engineering Physics
-** Nuclear Engineering
-** Optical Engineering
 
 * Electrical Engineering
-** Electronics
-** Software Engineering
-** Power Engineering
-** Optical Engineering
-** Robotics Engineering
+    * Electronics
+* Software Engineering
 
 
 ## Part 4: Selection/Recommendation
