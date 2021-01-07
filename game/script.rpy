@@ -5,6 +5,7 @@
 
 define a = Character("Amy")
 define b = Character("HR Person")
+define c = Character("Michael") #Michael is the department head
 
 
 # The game starts here.
@@ -33,8 +34,6 @@ label start:
 
 
     # This ends the game.
-    scene bg meadow 
-
-    show amy sad    
+     
 
     return
