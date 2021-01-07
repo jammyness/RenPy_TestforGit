@@ -28,7 +28,7 @@ label start:
 
     a "Huh?? How did I get here."
 
-    a "New job!? I barely remember being interviewed."
+    a "New job!? I barely remember being interviewed. Why am I here?"
 
 
     # This ends the game.
