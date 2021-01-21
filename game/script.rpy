@@ -32,7 +32,7 @@ label start:
 
     a "New job!? I barely remember being interviewed. Why am I here?"
 
-    show HR_Person happy
+    show HR_Person happy happy
 
     b "Welcome! You must be the new recruit!"
 
