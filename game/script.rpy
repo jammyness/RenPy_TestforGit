@@ -3,9 +3,9 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define a = Character("Amy")
-define b = Character("HR_Person")
-define c = Character("Michael") #Michael is the department head
+define a = Character("Amy", color="#22a6d6")
+define b = Character("HR_Person", color ="#409952")
+define c = Character("Michael", color = "#8a4ead") #Michael is the department head
 
 
 # The game starts here.
@@ -32,7 +32,7 @@ label start:
 
     a "New job!? I barely remember being interviewed. Why am I here?"
 
-    show HR_Person happy
+    show hr_person happy
 
     b "Welcome! You must be the new recruit!"
 
