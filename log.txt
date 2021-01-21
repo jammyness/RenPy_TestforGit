@@ -1,35 +1,36 @@
-Wed Jan 20 19:20:32 2021
+Wed Jan 20 19:27:53 2021
 Windows-8-6.2.9200
 Ren'Py 7.3.5.606
  
 
-Bootstrap to the start of init.init took 0.12s
+Bootstrap to the start of init.init took 0.19s
 Early init took 0.01s
 Loader init took 0.04s
 Loading error handling took 0.04s
-Loading script took 0.19s
+Loading script took 0.31s
 Loading save slot metadata. took 0.03s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.17s
-Loading analysis data took 0.06s
+Running init code took 0.15s
+Loading analysis data took 0.05s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
-Dump and make backups. took 0.11s
+Backing up script files to 'C:\\Users\\sempofu\\AppData\\Roaming/RenPy/backups\\RenPy_TestforGit-1':
+Dump and make backups. took 0.12s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.03s
+Initial gc. took 0.02s
 DPI scale factor: 1.500000
-Creating interface object took 0.17s
+Creating interface object took 0.19s
 Cleaning stores took 0.00s
-Init translation took 0.03s
+Init translation took 0.04s
 Build styles took 0.01s
-Load screen analysis took 0.07s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.09s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.14s
+Prepare screens took 0.12s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.11s
+Save bytecode. took 0.13s
 Running _start took 0.00s
 Performance test:
 Interface start took 0.03s
@@ -277,14 +278,14 @@ Extensions:
     GL_NV_blend_square
     GL_NV_conditional_render
     GL_NV_primitive_restart
-    GL_NV_texgen_reflection
-    GL_SGIS_generate_mipmap
-    GL_SGIS_texture_edge_clamp
-    GL_SGIS_texture_lod
-    GL_SUN_multi_draw_arrays
-    GL_WIN_swap_hint
-    WGL_EXT_swap_control
-Number of texture units: 8
+    GL_NV_texg- 256px textures work.
+- 512px textures work.
+- 1024px textures work.
+- 2048px textures work.
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Total time until interface ready: 2.44099998474s
+ units: 8
 Using shader environment.
 Using FBO RTT.
 Root FBO is: 0
@@ -300,4 +301,16 @@ Texture testing:
 - 2048px textures work.
 Root FBO is: 0
 FBO Maximum Texture Size: 2048
-Total time until interface ready: 2.5680000782s
+Total time until interface ready: 3.03799986839s
+- Target is 5 frames in 0.333333333333 seconds.
+- Frame drawn at 0.000000 seconds.
+- Frame drawn at 0.019667 seconds.
+- Frame drawn at 0.028666 seconds.
+- Frame drawn at 0.052667 seconds.
+- Frame drawn at 0.067667 seconds.
+- 0.067667 seconds to render 5 frames.
+
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Screen sizes: virtual=(1280, 720) physical=(2880, 152

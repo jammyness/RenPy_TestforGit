@@ -32,13 +32,36 @@ label start:
 
     a "New job!? I barely remember being interviewed. Why am I here?"
 
-<<<<<<< HEAD
-    show HR_Person happy happy
-=======
     show hr_person very happy
->>>>>>> 7e5e79c67886bd2d6fbb653766bfcd2aa4aac614
 
-    b "Welcome! You must be the new recruit!"
+    b "Welcome! You must be the new recruit!"]
+
+    b "Did you read the new hire orientation manual "
+
+
+    menu:
+
+    "It's a videogame.":
+        jump game
+
+    "It's an interactive book.":
+        jump book
+
+label game:
+
+    m "It's a kind of videogame you can play on your computer or a console."
+
+    jump marry
+
+label book:
+
+    m "It's like an interactive book that you can read on a computer or a console."
+
+    jump marry
+
+label marry:
+
+    "And so, we become a visual novel creating duo."
 
 
     # This ends the game.
