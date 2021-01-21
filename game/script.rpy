@@ -4,7 +4,7 @@
 # name of the character.
 
 define a = Character("Amy")
-define b = Character("HR Person")
+define b = Character("HR_Person")
 define c = Character("Michael") #Michael is the department head
 
 
@@ -32,7 +32,7 @@ label start:
 
     a "New job!? I barely remember being interviewed. Why am I here?"
 
-    show HR Person happy
+    show HR_Person happy
 
     b "Welcome! You must be the new recruit!"
 
