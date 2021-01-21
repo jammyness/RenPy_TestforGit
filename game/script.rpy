@@ -32,6 +32,8 @@ label start:
 
     a "New job!? I barely remember being interviewed. Why am I here?"
 
+    show HR Person happy
+
     b "Welcome! You must be the new recruit!"
 
 
