@@ -9,6 +9,8 @@ define c = Character("Michael", color = "#8a4ead") #Michael is the department he
 
 
 # The game starts here.
+# motion controls
+
 
 label start:
 
@@ -24,6 +26,9 @@ label start:
 
     show amy happy
 
+
+    #move amy to the right
+
     # These display lines of dialogue.
 
     "Welcome to Industri Co. Congratulations on your first day!"
@@ -32,7 +37,7 @@ label start:
 
     a "New job!? I barely remember being interviewed. Why am I here?"
 
-    show hr_person very happy
+    show hr_person very happy at right
 
     b "Welcome! You must be the new recruit!"
 
