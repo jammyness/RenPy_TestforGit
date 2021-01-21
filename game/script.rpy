@@ -32,6 +32,8 @@ label start:
 
     a "New job!? I barely remember being interviewed. Why am I here?"
 
+    b "Welcome! You must be the new recruit!"
+
 
     # This ends the game.
      
