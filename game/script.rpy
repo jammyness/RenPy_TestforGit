@@ -18,13 +18,13 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    scene bg room
+    scene bg room 
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "amy happy.png" to the images
     # directory.
 
-    show amy happy
+    show amy happy 
 
 
     #move amy to the right
@@ -37,7 +37,7 @@ label start:
 
     a "New job!? I barely remember being interviewed. Why am I here?"
 
-    show hr_person very happy at right
+    show hr_person happy at right 
 
     b "Welcome! You must be the new recruit!"
 
