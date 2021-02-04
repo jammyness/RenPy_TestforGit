@@ -39,37 +39,53 @@ label start:
 
     show hr_person happy at right 
 
-    b "Welcome! You must be the new recruit!"]
+    b "Welcome! You must be the new recruit!"
 
     b "Did you read the new hire orientation manual "
 
 
-    menu:
+    #flashback to interview 
 
-    "It's a videogame.":
-        jump game
+    scene bg interviewroom
+    show michael happy at right 
 
-    "It's an interactive book.":
-        jump book
+    c "Why engineering"
 
-label game:
+menu:
 
-    m "It's a kind of videogame you can play on your computer or a console."
+    "I love helping people":
+        jump biomedE
 
-    jump marry
+    "I want to do something creative":
+        jump badend
 
-label book:
+    "I want lots of money and stability to be dangerously honest.":
+        jump badend
 
-    m "It's like an interactive book that you can read on a computer or a console."
+    "I wanted a hands-on career.":
+        jump mechE
 
-    jump marry
+    "I hate people and I didn't want to be in any career that involved people. Please, just the microscope and the desk and a closed unventilated room.":
+        jump badend
 
-label marry:
+    "I love being outside I would die being inside a building all day":
+        jump badend
 
-    "And so, we become a visual novel creating duo."
+label badend:
+    "You picked the wrong choice"
+    return
+
+
+label mechE:
+    c "Welcome to the Mechanical Engineering Arm of IndustriCo"
+    return
+
+
+label biomedE: 
+    c "Welcoome to the Biomedical Engineering Arm of IndustriCo"    
+    return
+
 
 
     # This ends the game.
      
-
-    return
