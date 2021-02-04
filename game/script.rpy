@@ -88,9 +88,5 @@ label biomedE:
 
 
     # This ends the game.
-<<<<<<< HEAD
-     
-=======
      
   
->>>>>>> 904341267dfbb5fc6848896b5f49d00ebbe5b23f
