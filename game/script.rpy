@@ -5,7 +5,7 @@
 
 define a = Character("Amy", color="#22a6d6")
 define b = Character("HR_Person", color ="#409952")
-define c = Character("Michael", color = "#8a4ead") #Michael is the department head
+define m = Character("Michael", color = "#8a4ead") #Michael is the department head
 
 
 # The game starts here.
@@ -45,6 +45,7 @@ label start:
 
 
     #flashback to interview 
+menu:
 
     scene bg interviewroom 
 
