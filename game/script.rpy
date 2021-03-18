@@ -52,7 +52,7 @@ label start:
 
     a "Hi Michael. Nice to meet you! I am excited to learn more about Industri Co. and the role that you are hiring for."
 
-    c "Ok. Let's get right to it! Why engineering?"
+    c "Ok. Let's get right to it! Tell me, Amy, why engineering?"
 
 menu:
 
