@@ -65,8 +65,6 @@ menu:
     "I want lots of money and stability to be dangerously honest.":
         jump badend
 
-    "I wanted a hands-on career.":
-        jump mechE
 
     "I hate people and I didn't want to be in any career that involved people. Please, just the microscope and the desk and a closed unventilated room.":
         jump badend
