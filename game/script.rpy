@@ -48,8 +48,11 @@ label start:
 
     scene bg interviewroom
     show michael happy at right 
+    c "Hi Amy! I am your interviewer, Michael"
 
-    c "Why engineering"
+    a "Hi Michael. Nice to meet you! I am excited to learn more about Industri Co. and the role that you are hiring for."
+
+    c "Ok. Let's get right to it! Why engineering?"
 
 menu:
 
@@ -82,15 +85,8 @@ label mechE:
 
 
 label biomedE: 
-    c "Welcoome to the Biomedical Engineering Arm of IndustriCo"    
+    c "Welcome to the Biomedical Engineering Arm of IndustriCo"    
     return
 
 
 
-    # This ends the game.
-<<<<<<< HEAD
-     
-=======
-     
-  
->>>>>>> 904341267dfbb5fc6848896b5f49d00ebbe5b23f
