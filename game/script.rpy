@@ -76,10 +76,6 @@ label badend:
     return
 
 
-label mechE:
-    c "Welcome to the Mechanical Engineering Arm of IndustriCo"
-    return
-
 
 label biomedE: 
     c "Welcoome to the Biomedical Engineering Arm of IndustriCo"    
