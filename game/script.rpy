@@ -14,7 +14,7 @@ define c = Character("Michael", color = "#8a4ead") #Michael is the department he
 
 label start:
 
-    play music "2_Day_1_Master.mp3"
+    play sound "2_Day_1_Master.mp3" fadein 30.0
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
