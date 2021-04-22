@@ -25,7 +25,8 @@ label start:
     # replace it by adding a file named "amy happy.png" to the images
     # directory.
 
-    show amy happy 
+    show amy happy
+    
 
 
     #move amy to the right
@@ -33,6 +34,8 @@ label start:
     # These display lines of dialogue.
 
     "Welcome to Industri Co. Congratulations on your first day!"
+
+    show amy confused
 
     a "Huh?? How did I get here."
 
@@ -49,11 +52,14 @@ label start:
 
     scene bg interviewroom
     show michael happy at right 
+    show amy confused
     c "Hi Amy! I am your interviewer, Michael"
 
     a "Hi Michael. Nice to meet you! I am excited to learn more about Industri Co. and the role that you are hiring for."
 
     c "Ok. Let's get right to it! Tell me, Amy, why engineering?"
+
+    show amy nervous
 
 menu:
 
